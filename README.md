@@ -6,7 +6,7 @@ Adapted from https://github.com/weihanwang/webdriver-python/ : docker container 
 - docker build -t twitter-selenium
 
 ## run container
-- docker run -v link/to/data/:/data/ twitter-selenium
+- docker run -v link/to/data/:/data/ twitter-selenium .
 
 
 
